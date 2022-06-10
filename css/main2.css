@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+    margin:0;
+    background-image: linear-gradient(to right, rgb(213, 171, 253), rgb(194, 194, 194));
+    width: 1000;
+
+  }
+
+  #content{
+    margin-top: 600px;
+    background-color: #EFEBE3;
+  }
+  .tips{
+    background-color: #EFEBE3;
+  }
+  h1{
+    font-family: Libre Baskerville;
+    font-weight: lighter;
+    font-size:40px;
+    text-align: center;
+    color:rgb(73, 73, 73);
+  
+  }
+  h4{
+    margin-top: 0;
+  }
+  .lis{
+    font-family: Libre Baskerville;
+    font-weight: lighter;
+    font-size:26px;
+    text-align: justify;
+    color:rgb(73, 73, 73);
+    margin-left: 120px;
+    margin-top: 40px;
+    margin-bottom: 0;
+  
+  }
+ 
+
+  .v1_2 {
+    height: 100px;
+    margin-top: 0;
+  }
+  .v1_25 {
+    width: 100%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 30px;
+    text-shadow: 0px 4.731457233428955px 4px rgba(0, 0, 0, 0.25);
+    font-family: Libre Baskerville;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+
+
+  .v1_29 {
+    width: 100%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 268px;
+    left: 50px;
+    text-shadow: 0px 2.153186798095703px 2px rgba(0, 0, 0, 0.25);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v1_26 {
+    width: 69px;
+    color: rgba(255,255,255,1);
+    margin-right: 20px;
+    top: 19px;
+    left: 500px;
+    font-size: 14px;
+    font-family: Lexend Mega;
+    font-weight: Regular;
+    opacity: 1;
+    text-align: right;
+    margin-top: 20px;
+  }
+  .v1_27 {
+    width: 78px;
+    color: rgba(255,255,255,1);
+    top: 19px;
+    left: 100px;
+    font-family: Lexend Mega;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .v1_28 {
+    width: 221px;
+    color: rgba(255,255,255,1);
+    top: 20px;
+    left: 119px;
+    font-family: Lexend Mega;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: right;
+  }
+  #navv{
+    margin-left:1050px;
+    position: absolute;
+  }
+  .icon{
+    position: absolute;
+    left: 8px;
+  }
