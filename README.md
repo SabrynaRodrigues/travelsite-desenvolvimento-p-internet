@@ -4,4 +4,4 @@
 <h3> Projeto: criação de site de dicas de Viagem
   <h3> Desenvolvi habilidades no Figma, CSS e HTML 🖌️🎨</h3>
   <a href="https://ibb.co/5ccxt9k"><img src="https://i.ibb.co/MNN5Whf/Whats-App-Image-2022-06-10-at-19-39-58.jpg" alt="Whats-App-Image-2022-06-10-at-19-39-58" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
-  <h3> 🖱️ Site no GitHub: https://sabrynarodrigues.github.io/travelsite-desenvolvimento-p-internet/tips.html </h3>
+  <h3> 🖱️ Site no GitHub: https://sabrynarodrigues.github.io/travelsite-desenvolvimento-p-internet/index.html </h3>
